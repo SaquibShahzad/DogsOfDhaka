@@ -1,3 +1,3 @@
 # YelpCamp
 
-A Heroku-hosted built on Node.js backbone using Express.js and MongoDB
+A Heroku-hosted application built on Node.js backbone using Express.js and MongoDB
